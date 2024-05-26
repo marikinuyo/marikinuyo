@@ -1,6 +1,5 @@
 <div align="center">
-  <div>👋</div>
-  <h1> Hi there ! I'm Marianna Kinuyo</h1>
+  <h1> Hi there ! I'm Marianna Kinuyo 👋</h1>
 </div>
 
 - 🏙️  Based in São Paulo - SP, Brazil
